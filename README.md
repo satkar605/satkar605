@@ -12,5 +12,6 @@ I’m a graduate student at the University of South Dakota with a focus on busin
 
 ---
 
-### Skills  
-Python, R, SQL, SAS, Forecasting, Data Cleaning, Dashboarding, Power BI
+### Tech Stack  
+Python, R, SQL, SAS, Power BI, Tableau, Shiny, Git, Excel
+
