@@ -4,12 +4,12 @@ I'm a graduate student at the University of South Dakota with a focus on busines
 
 ---
 
-### 🚀 Building. Launching. Collaborating.
+### About Me.
 
 **👥 Building Community**  
 Setting up the **USD Business Analytics Club** to help students work on real-world data problems and learn through collaboration.
 
-**📊 Sharing Insights**  
+**📊 Recent Projects**  
 Just released a dashboard exploring **referee travel and workload patterns** in NCAA Division I Men’s Basketball.  
 👉 [View the dashboard](https://satkar605.shinyapps.io/ncaa-dashboard/)
 
