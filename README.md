@@ -4,7 +4,7 @@ I'm a graduate student at the University of South Dakota with a focus on busines
 
 ---
 
-### About Me.
+### About Me
 
 **👥 Building Community**  
 Setting up the **USD Business Analytics Club** to help students work on real-world data problems and learn through collaboration.
