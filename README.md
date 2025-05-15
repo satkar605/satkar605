@@ -1,14 +1,21 @@
 # Hi, I'm Satkar Karki
 
-My name is Satkar Karki, and I’m a graduate student at the University of South Dakota with a focus on business analytics. I’m interested in data analysis, forecasting, and building tools that help people make better decisions.
+I'm a graduate student at the University of South Dakota with a focus on business analytics. I use data to uncover insights, improve decision-making, and create solutions that deliver value to businesses.
 
-- I’m setting up the **USD Business Analytics Club** to give students a place to work on real data problems, learn from each other, and build project experience.
+---
 
-- I recently built a dashboard that explores **referee travel and workload patterns** in NCAA Division I Men’s Basketball.  
-  👉 [View the dashboard](https://satkar605.shinyapps.io/ncaa-dashboard/)
+### 🚀 Building. Launching. Collaborating.
 
-- I’m always open to collaboration on data projects that solve business problems.  
-  📩 Email: karkisatkarhere@gmail.com
+**👥 Building Community**  
+Setting up the **USD Business Analytics Club** to help students work on real-world data problems and learn through collaboration.
+
+**📊 Sharing Insights**  
+Just released a dashboard exploring **referee travel and workload patterns** in NCAA Division I Men’s Basketball.  
+👉 [View the dashboard](https://satkar605.shinyapps.io/ncaa-dashboard/)
+
+**🤝 Open for Collaboration**  
+Always interested in working on data projects that solve business problems.  
+📩 Reach me at: karkisatkarhere@gmail.com
 
 ---
 
