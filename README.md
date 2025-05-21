@@ -13,6 +13,9 @@ Setting up the **USD Business Analytics Club** to help students work on real-wor
 Just released a dashboard exploring **referee travel and workload patterns** in NCAA Division I Men’s Basketball.  
 👉 [View the dashboard](https://satkar605.shinyapps.io/ncaa-dashboard/)
 
+**🛠️ Currently Learning**  
+NLP, Tableau, Deep Learning, Lean Management, Rock Climbing, and Baking
+
 **🤝 Open for Collaboration**  
 Always interested in working on data projects that solve business problems.  
 📩 Reach me at: karkisatkarhere@gmail.com
