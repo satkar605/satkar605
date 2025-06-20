@@ -14,7 +14,7 @@ Just released a dashboard exploring **referee travel and workload patterns** in 
 👉 [View the dashboard](https://satkar605.shinyapps.io/ncaa-dashboard/)
 
 **🛠️ Currently Learning**  
-NLP, Tableau, Data Engineering, Lean Management, Rock Climbing, and Baking
+NLP, Data Engineering, Tableau, Lean Management, Rock Climbing, and Baking
 
 **🤝 Open for Collaboration**  
 Always interested in working on data projects that solve business problems.  
