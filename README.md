@@ -22,6 +22,9 @@ Always interested in working on data projects that solve business problems.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satkar605&layout=compact&langs_count=8&hide=html,css&theme=default)
+
+
 ### Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
